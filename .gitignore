@@ -1,0 +1,23 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Optional Python cache files
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# Mypy cache
+.mypy_cache/
+
+# Ruff cache
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
